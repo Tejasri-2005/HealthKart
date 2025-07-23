@@ -1,12 +1,12 @@
 # HealthKart
 
-# 📊 Influencer Campaign ROI Dashboard
+ 📊 Influencer Campaign ROI Dashboard
 
 This is an open-source Streamlit dashboard that tracks and visualizes the **ROI of influencer marketing campaigns** across platforms like Instagram, YouTube, and Twitter. It is designed to help HealthKart (or any brand) evaluate campaign performance, influencer efficiency, and payout effectiveness in real time.
 
----
 
-## 🧠 Key Features
+
+ 🧠 Key Features
 
 - 📂 Upload influencer, post, tracking, and payout data
 - 📈 Track ROAS (Return on Ad Spend) and revenue vs. payout
@@ -14,13 +14,13 @@ This is an open-source Streamlit dashboard that tracks and visualizes the **ROI 
 - 💡 Identify top influencers and poor ROAS performers
 - 📤 Export filtered performance data as CSV
 
----
 
-## 🗂️ Data Model (CSV Schema)
+
+ 🗂️ Data Model (CSV Schema)
 
 You’ll need 4 CSV files with the following structures:
 
-### 1. `influencers.csv`
+ 1. `influencers.csv`
 
 | Column         | Type   | Description                          |
 |----------------|--------|--------------------------------------|
@@ -31,9 +31,9 @@ You’ll need 4 CSV files with the following structures:
 | follower_count | int    | Number of followers                  |
 | platform       | string | Instagram, YouTube, Twitter, etc.    |
 
----
 
-### 2. `posts.csv`
+
+ 2. `posts.csv`
 
 | Column        | Type   | Description                          |
 |---------------|--------|--------------------------------------|
@@ -46,9 +46,9 @@ You’ll need 4 CSV files with the following structures:
 | likes         | int    | Number of likes                      |
 | comments      | int    | Number of comments                   |
 
----
 
-### 3. `tracking_data.csv`
+
+3. `tracking_data.csv`
 
 | Column        | Type   | Description                          |
 |---------------|--------|--------------------------------------|
@@ -61,9 +61,9 @@ You’ll need 4 CSV files with the following structures:
 | orders        | int    | Order count                          |
 | revenue       | float  | Total revenue from orders            |
 
----
 
-### 4. `payouts.csv`
+
+ 4. `payouts.csv`
 
 | Column        | Type   | Description                          |
 |---------------|--------|--------------------------------------|
@@ -73,19 +73,19 @@ You’ll need 4 CSV files with the following structures:
 | orders        | int    | Total orders (if per-order basis)    |
 | total_payout  | float  | Total payout to influencer           |
 
----
 
-## 🚀 How to Run It Locally
 
-### 🔧 Prerequisites
+🚀 How to Run It Locally
+
+ 🔧 Prerequisites
 
 - Python 3.8+
 - `pip` installed
 - Recommended: VS Code or Jupyter
 
----
 
-### 📦 Install Required Packages
+
+ 📦 Install Required Packages
 
 Run this in your terminal:
 
@@ -93,9 +93,9 @@ Run this in your terminal:
 pip install streamlit pandas
 ```
 
----
 
-### ▶️ Launch the Dashboard
+
+ ▶️ Launch the Dashboard
 
 ```bash
 streamlit run dashboard.py
@@ -103,53 +103,52 @@ streamlit run dashboard.py
 
 This will open the dashboard in your default browser.
 
----
 
-## 🧠 Assumptions
+
+🧠 Assumptions
 
 - ROAS = `Revenue / Total Payout` (assumes all revenue is directly attributable)
 - Tracking data is pre-aggregated by influencer & product
 - All 4 CSV files must be uploaded to run the dashboard
 
----
 
-## 📌 Screenshots
+ 📌 Screenshots
 
-> 
+> ![Main Dashboard](assets/dashboard_home.png)
+> !
 
----
 
-## 📤 Exportable Outputs
+ 📤 Exportable Outputs
 
 - Download filtered influencer performance CSV
 - (Optional) Export insights as PDF
 
----
 
-## 📈 Sample Insights (from mock data)
+
+ 📈 Sample Insights (from mock data)
 
 - **Top ROAS Influencer**: Aarti Yadav on Instagram with ROAS of 7.3x  
 - **Best Platform**: YouTube has average ROAS of 5.4x  
 - **Category Trends**: Fitness > Lifestyle > Parenting  
 - **High Payout, Low ROI Influencers**: Flag for review
 
----
 
-## 🛠️ Future Improvements
+
+ 🛠️ Future Improvements
 
 - Add incrementality model support
 - Visualize time-based trends (e.g., ROAS over weeks)
 - Compare campaigns by product or brand
 - Automate CSV ingestion from Google Sheets
 
----
 
-## 🤝 License
+
+ 🤝 License
 
 This project is open-source and free to use under the MIT license.
 
----
 
-## 🙌 Author
+
+ 🙌 Author
 
 Built by [Tejasri Nagireddi] — feel free to fork, contribute, or reuse.
