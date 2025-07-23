@@ -114,8 +114,16 @@ This will open the dashboard in your default browser.
 
  📌 Screenshots
 
-> ![Main Dashboard](assets/dashboard_home.png)
-> !
+
+> ![Download file](Dashboard_Images/Downloadfile.png)
+> ![Filters](Dashboard_Images/Filters.png)
+> ![ROI_Dashboard](Dashboard_Images/ROI_Dashboard.png)
+> ![Top10dashboard](Dashboard_Images/Top10dashboard.png)
+> ![performancetable](Dashboard_Images/performancetable.png)
+> ![uploadfles](Dashboard_Images/uploadfiles.png)
+
+
+
 
 
  📤 Exportable Outputs
