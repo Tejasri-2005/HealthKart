@@ -1,0 +1,101 @@
+source,campaign,influencer_id,user_id,product,date,orders,revenue
+YouTube,SummerBurn,41,U1001,Gritzo Shake,2025-06-16,4,3662
+Twitter,MegaFit,20,U1002,Omega-3,2025-07-01,1,1534
+Twitter,SuppStart,43,U1003,Whey Protein,2025-06-28,4,1316
+Twitter,EnergyPush,2,U1004,Gritzo Shake,2025-06-05,4,1764
+Instagram,EnergyPush,34,U1005,BCAA,2025-06-20,4,1157
+YouTube,MegaFit,69,U1006,Omega-3,2025-07-01,3,4497
+Twitter,SummerBurn,80,U1007,Whey Protein,2025-06-08,3,2363
+Twitter,SummerBurn,56,U1008,Whey Protein,2025-06-25,1,4134
+Instagram,MegaFit,39,U1009,Whey Protein,2025-06-02,3,959
+YouTube,FatBurn,48,U1010,Omega-3,2025-06-05,2,4851
+YouTube,SuppStart,88,U1011,Multivitamin,2025-06-06,2,1146
+Twitter,EnergyPush,80,U1012,Gritzo Shake,2025-06-08,4,1672
+Instagram,EnergyPush,82,U1013,BCAA,2025-06-15,3,576
+YouTube,FatBurn,87,U1014,Creatine,2025-06-06,1,4118
+YouTube,SuppStart,39,U1015,Gritzo Shake,2025-07-01,4,2548
+YouTube,FatBurn,26,U1016,Omega-3,2025-06-28,4,1373
+Instagram,EnergyPush,74,U1017,BCAA,2025-06-19,3,2918
+Instagram,MegaFit,51,U1018,BCAA,2025-06-01,5,901
+Twitter,MegaFit,64,U1019,BCAA,2025-06-25,2,3386
+Instagram,MegaFit,25,U1020,Creatine,2025-06-09,2,1295
+Twitter,MegaFit,6,U1021,BCAA,2025-06-26,4,773
+Twitter,FatBurn,94,U1022,Multivitamin,2025-06-03,3,3176
+Twitter,EnergyPush,23,U1023,Multivitamin,2025-06-05,5,3497
+Twitter,SuppStart,35,U1024,Multivitamin,2025-06-09,4,2917
+Twitter,FatBurn,15,U1025,Omega-3,2025-07-01,1,1653
+Instagram,MegaFit,93,U1026,Gritzo Shake,2025-06-13,5,3496
+Instagram,EnergyPush,2,U1027,BCAA,2025-06-18,1,4225
+YouTube,MegaFit,96,U1028,Gritzo Shake,2025-06-09,5,3621
+Twitter,FatBurn,14,U1029,Gritzo Shake,2025-06-08,4,705
+Twitter,SuppStart,42,U1030,Creatine,2025-06-08,1,4303
+Twitter,FatBurn,84,U1031,Omega-3,2025-06-04,2,871
+Instagram,FatBurn,64,U1032,Whey Protein,2025-06-04,2,4903
+Instagram,EnergyPush,59,U1033,BCAA,2025-06-22,5,3933
+Twitter,MegaFit,94,U1034,Multivitamin,2025-06-29,4,1311
+YouTube,SuppStart,53,U1035,BCAA,2025-06-02,3,2279
+YouTube,EnergyPush,31,U1036,BCAA,2025-06-04,3,4960
+Twitter,FatBurn,8,U1037,Omega-3,2025-06-09,2,1500
+YouTube,SummerBurn,85,U1038,Multivitamin,2025-06-21,5,674
+Instagram,FatBurn,32,U1039,Multivitamin,2025-06-26,5,2181
+Instagram,SuppStart,27,U1040,Creatine,2025-06-07,2,3191
+Instagram,SuppStart,1,U1041,BCAA,2025-06-28,2,1564
+Twitter,FatBurn,23,U1042,Whey Protein,2025-06-22,1,1579
+Instagram,FatBurn,31,U1043,Creatine,2025-06-11,1,1927
+YouTube,SummerBurn,17,U1044,Gritzo Shake,2025-06-14,5,1431
+Twitter,SummerBurn,61,U1045,Omega-3,2025-06-25,3,4704
+Twitter,SummerBurn,58,U1046,Creatine,2025-06-08,5,855
+Twitter,MegaFit,67,U1047,BCAA,2025-06-15,1,998
+YouTube,EnergyPush,55,U1048,Gritzo Shake,2025-06-04,4,4133
+Instagram,SummerBurn,42,U1049,Creatine,2025-06-05,1,1533
+YouTube,SuppStart,82,U1050,Creatine,2025-06-18,3,3620
+Twitter,SuppStart,38,U1051,Omega-3,2025-06-17,5,4024
+Instagram,MegaFit,15,U1052,Gritzo Shake,2025-06-21,5,2261
+YouTube,EnergyPush,30,U1053,Omega-3,2025-06-11,4,3766
+YouTube,MegaFit,13,U1054,BCAA,2025-06-14,3,2588
+YouTube,BoostUp,88,U1055,Omega-3,2025-06-03,1,1199
+Instagram,EnergyPush,13,U1056,Gritzo Shake,2025-06-24,3,1565
+Twitter,SummerBurn,76,U1057,Creatine,2025-06-18,3,1501
+YouTube,FatBurn,86,U1058,Omega-3,2025-06-28,1,2856
+Twitter,FatBurn,46,U1059,Whey Protein,2025-06-19,5,2242
+Instagram,MegaFit,62,U1060,Multivitamin,2025-06-28,1,3368
+Twitter,FatBurn,15,U1061,BCAA,2025-06-19,2,4015
+Twitter,SuppStart,79,U1062,Gritzo Shake,2025-06-21,5,715
+Twitter,MegaFit,89,U1063,BCAA,2025-06-01,2,2738
+Twitter,FatBurn,44,U1064,BCAA,2025-06-01,2,1673
+Twitter,MegaFit,52,U1065,Whey Protein,2025-06-05,1,1251
+Twitter,SuppStart,28,U1066,Omega-3,2025-06-14,4,3292
+Instagram,FatBurn,40,U1067,Gritzo Shake,2025-06-11,5,1195
+Instagram,BoostUp,21,U1068,Creatine,2025-06-02,1,2729
+YouTube,MegaFit,55,U1069,Omega-3,2025-06-20,4,3892
+YouTube,BoostUp,97,U1070,Creatine,2025-06-04,3,4021
+Instagram,FatBurn,87,U1071,Gritzo Shake,2025-06-19,4,4816
+Twitter,FatBurn,6,U1072,Multivitamin,2025-06-13,5,948
+Instagram,BoostUp,39,U1073,Multivitamin,2025-06-25,2,2593
+YouTube,FatBurn,16,U1074,Whey Protein,2025-06-16,4,1939
+Instagram,EnergyPush,69,U1075,Gritzo Shake,2025-06-08,5,3401
+Instagram,EnergyPush,95,U1076,Whey Protein,2025-06-14,1,4266
+Instagram,FatBurn,74,U1077,Omega-3,2025-06-19,4,3921
+YouTube,SummerBurn,52,U1078,Whey Protein,2025-07-01,3,1907
+Twitter,EnergyPush,89,U1079,BCAA,2025-06-03,4,1367
+Instagram,EnergyPush,76,U1080,Omega-3,2025-06-17,1,3742
+YouTube,MegaFit,44,U1081,Multivitamin,2025-06-11,2,1125
+Twitter,MegaFit,15,U1082,Creatine,2025-06-17,2,3362
+YouTube,MegaFit,83,U1083,Multivitamin,2025-06-08,1,1699
+YouTube,BoostUp,23,U1084,Creatine,2025-06-05,1,1951
+Twitter,EnergyPush,60,U1085,Creatine,2025-06-25,5,4177
+Twitter,SuppStart,83,U1086,Gritzo Shake,2025-06-20,3,3089
+Instagram,EnergyPush,9,U1087,Omega-3,2025-06-15,3,2750
+Twitter,SummerBurn,46,U1088,Creatine,2025-06-03,3,4282
+YouTube,SummerBurn,8,U1089,BCAA,2025-06-27,3,1128
+Twitter,SummerBurn,79,U1090,Creatine,2025-06-17,4,4290
+Twitter,SuppStart,95,U1091,Whey Protein,2025-06-15,5,2042
+YouTube,SuppStart,61,U1092,Creatine,2025-06-05,1,4190
+Instagram,FatBurn,92,U1093,Whey Protein,2025-06-17,2,820
+Instagram,MegaFit,57,U1094,Omega-3,2025-06-17,5,1800
+YouTube,FatBurn,37,U1095,Omega-3,2025-06-14,3,928
+Twitter,MegaFit,43,U1096,Whey Protein,2025-06-11,1,3666
+YouTube,FatBurn,93,U1097,Gritzo Shake,2025-07-01,5,1731
+YouTube,SummerBurn,75,U1098,Gritzo Shake,2025-06-05,3,3041
+Twitter,MegaFit,85,U1099,Omega-3,2025-06-05,5,1194
+YouTube,SuppStart,49,U1100,Gritzo Shake,2025-06-26,3,1546
